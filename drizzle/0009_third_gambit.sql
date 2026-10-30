@@ -1,0 +1,1 @@
+ALTER TABLE `brains` ADD `playbook_updated_at` integer;

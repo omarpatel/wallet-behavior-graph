@@ -1,0 +1,12 @@
+node_modules
+.next
+.git
+.env*
+!.env.example
+data/*.db
+data/*.db-*
+data/*.log
+data/*.request
+data/avatars
+coverage
+*.tsbuildinfo

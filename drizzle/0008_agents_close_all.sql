@@ -1,0 +1,1 @@
+ALTER TABLE `agents` ADD `close_all_requested_at` integer;

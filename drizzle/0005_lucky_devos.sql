@@ -1,0 +1,1 @@
+CREATE INDEX `trades_source` ON `trades` (`source`);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `brains_codename_unique` ON `brains` (`codename`);

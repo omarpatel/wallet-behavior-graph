@@ -1,0 +1,457 @@
+{
+  "generatedAt": 1793318400,
+  "wallets": [
+    {
+      "address": "AvBrL1mtqQdfBGc55kzEngcPkjrCEw1yZaRuutD8WMQK",
+      "name": "Wallet A",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 1,
+      "stats": {
+        "pnl1dUsd": -1039,
+        "pnl7dUsd": 12558,
+        "pnl30dUsd": 40698,
+        "winRate7d": 0.564,
+        "winRate30d": 0.479,
+        "trades7d": 97,
+        "trades30d": 485,
+        "avgHoldSecs": 14009,
+        "lastActiveTs": 1792896380
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": {
+        "hitRate": 0.27,
+        "earlyRunners": 2,
+        "earlyMidfails": 1,
+        "earlyFails": 1,
+        "runnersAll": 7,
+        "medianDelayMin": 16,
+        "medianEntryMcapUsd": 61891,
+        "notes": "Synthetic study record."
+      }
+    },
+    {
+      "address": "DXyt3iWJoYxNizrZw4oAy7xM1DBKz5WdtHnAUtKwnwas",
+      "name": "Wallet B",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 2,
+      "stats": {
+        "pnl1dUsd": 2427,
+        "pnl7dUsd": 9139,
+        "pnl30dUsd": -3005,
+        "winRate7d": 0.433,
+        "winRate30d": 0.321,
+        "trades7d": 177,
+        "trades30d": 885,
+        "avgHoldSecs": 364,
+        "lastActiveTs": 1792918623
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": null
+    },
+    {
+      "address": "C5fzCSgeRGNP54ExaMD9x38f1hGYAYaHp2FbYb1azRfQ",
+      "name": "Wallet C",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 3,
+      "stats": {
+        "pnl1dUsd": 2257,
+        "pnl7dUsd": 18966,
+        "pnl30dUsd": 23927,
+        "winRate7d": 0.565,
+        "winRate30d": 0.631,
+        "trades7d": 8,
+        "trades30d": 40,
+        "avgHoldSecs": 18853,
+        "lastActiveTs": 1793057560
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": null
+    },
+    {
+      "address": "F5X2kVDfhNm6g4hsVNxHUPGEC2hLeVpW7aQMLAVG4xV9",
+      "name": "Wallet D",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 4,
+      "stats": {
+        "pnl1dUsd": 112,
+        "pnl7dUsd": 5398,
+        "pnl30dUsd": 85727,
+        "winRate7d": 0.376,
+        "winRate30d": 0.32,
+        "trades7d": 178,
+        "trades30d": 890,
+        "avgHoldSecs": 13031,
+        "lastActiveTs": 1793297634
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": null
+    },
+    {
+      "address": "9cySm4pnjj4b7V8H8ASgoKDgUbEkxzNoZSh7zFkGRWbn",
+      "name": "Wallet E",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 5,
+      "stats": {
+        "pnl1dUsd": 2892,
+        "pnl7dUsd": 15694,
+        "pnl30dUsd": 73629,
+        "winRate7d": 0.656,
+        "winRate30d": 0.35,
+        "trades7d": 26,
+        "trades30d": 104,
+        "avgHoldSecs": 18829,
+        "lastActiveTs": 1792953643
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": {
+        "hitRate": 0.35,
+        "earlyRunners": 1,
+        "earlyMidfails": 0,
+        "earlyFails": 3,
+        "runnersAll": 7,
+        "medianDelayMin": 14,
+        "medianEntryMcapUsd": 117562,
+        "notes": "Synthetic study record."
+      }
+    },
+    {
+      "address": "H5GWrrx3Mz16qCBnPYLvuw1cT6tW6mRDz2cxrK1PDtS9",
+      "name": "Wallet F",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 6,
+      "stats": {
+        "pnl1dUsd": -979,
+        "pnl7dUsd": 612,
+        "pnl30dUsd": 8795,
+        "winRate7d": 0.496,
+        "winRate30d": 0.521,
+        "trades7d": 253,
+        "trades30d": 1012,
+        "avgHoldSecs": 5074,
+        "lastActiveTs": 1793124117
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": null
+    },
+    {
+      "address": "HD1a9XLwZYUBg4qFW27n2cJh8DS7kHgd3BzBAAdjhScV",
+      "name": "Wallet G",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 7,
+      "stats": {
+        "pnl1dUsd": 2933,
+        "pnl7dUsd": 16658,
+        "pnl30dUsd": 45423,
+        "winRate7d": 0.647,
+        "winRate30d": 0.431,
+        "trades7d": 290,
+        "trades30d": 1160,
+        "avgHoldSecs": 10832,
+        "lastActiveTs": 1793133698
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": null
+    },
+    {
+      "address": "EzQivcXQ5jy3tDkz7V3wpKYUsjQ3C6sRfVuTmBniwY4o",
+      "name": "Wallet H",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 8,
+      "stats": {
+        "pnl1dUsd": -1599,
+        "pnl7dUsd": 15752,
+        "pnl30dUsd": -10103,
+        "winRate7d": 0.376,
+        "winRate30d": 0.357,
+        "trades7d": 157,
+        "trades30d": 628,
+        "avgHoldSecs": 13238,
+        "lastActiveTs": 1793241800
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": null
+    },
+    {
+      "address": "dMThxBhq2Y3FeWP1dMSMo9aSqxggpV1soLK8KcCSy3h",
+      "name": "Wallet I",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 9,
+      "stats": {
+        "pnl1dUsd": -1077,
+        "pnl7dUsd": 2698,
+        "pnl30dUsd": 52626,
+        "winRate7d": 0.481,
+        "winRate30d": 0.627,
+        "trades7d": 87,
+        "trades30d": 348,
+        "avgHoldSecs": 17649,
+        "lastActiveTs": 1793255759
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": {
+        "hitRate": 0.65,
+        "earlyRunners": 1,
+        "earlyMidfails": 1,
+        "earlyFails": 1,
+        "runnersAll": 5,
+        "medianDelayMin": 4.6,
+        "medianEntryMcapUsd": 119255,
+        "notes": "Synthetic study record."
+      }
+    },
+    {
+      "address": "HWQrPRGKzijLxpiCJ6BCzt9tcBNZkDaUzwdySRWMPdfA",
+      "name": "Wallet J",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 10,
+      "stats": {
+        "pnl1dUsd": -1262,
+        "pnl7dUsd": 1676,
+        "pnl30dUsd": 71518,
+        "winRate7d": 0.577,
+        "winRate30d": 0.399,
+        "trades7d": 157,
+        "trades30d": 471,
+        "avgHoldSecs": 2053,
+        "lastActiveTs": 1792978460
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": null
+    },
+    {
+      "address": "D4roGoEkbtpcx7fdHLwCwbEyeh8bQKEGp94qQM55KDZC",
+      "name": "Wallet K",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 11,
+      "stats": {
+        "pnl1dUsd": 3764,
+        "pnl7dUsd": 21883,
+        "pnl30dUsd": 62391,
+        "winRate7d": 0.697,
+        "winRate30d": 0.653,
+        "trades7d": 135,
+        "trades30d": 405,
+        "avgHoldSecs": 19492,
+        "lastActiveTs": 1793199732
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": null
+    },
+    {
+      "address": "6Y94v9hmgSdBp51TQzfX4Rzed5oZSczvm6BnUX1npuVD",
+      "name": "Wallet L",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 12,
+      "stats": {
+        "pnl1dUsd": 1304,
+        "pnl7dUsd": -4783,
+        "pnl30dUsd": 12452,
+        "winRate7d": 0.673,
+        "winRate30d": 0.335,
+        "trades7d": 49,
+        "trades30d": 245,
+        "avgHoldSecs": 6390,
+        "lastActiveTs": 1792973420
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": null
+    },
+    {
+      "address": "CgFxPx6d8N68rZQicDdJpoARAsajWPNk2g5k3TGpRZxf",
+      "name": "Wallet M",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 13,
+      "stats": {
+        "pnl1dUsd": 3188,
+        "pnl7dUsd": 4278,
+        "pnl30dUsd": 66142,
+        "winRate7d": 0.366,
+        "winRate30d": 0.596,
+        "trades7d": 126,
+        "trades30d": 378,
+        "avgHoldSecs": 5224,
+        "lastActiveTs": 1793157374
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": {
+        "hitRate": 0.66,
+        "earlyRunners": 5,
+        "earlyMidfails": 0,
+        "earlyFails": 0,
+        "runnersAll": 4,
+        "medianDelayMin": 22.4,
+        "medianEntryMcapUsd": 20411,
+        "notes": "Synthetic study record."
+      }
+    },
+    {
+      "address": "6aRQVAArDY3hgJy2Nwe7ryFunDjLEhUZzSj3s7w7RrNQ",
+      "name": "Wallet N",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 14,
+      "stats": {
+        "pnl1dUsd": -1575,
+        "pnl7dUsd": 1582,
+        "pnl30dUsd": 9359,
+        "winRate7d": 0.666,
+        "winRate30d": 0.578,
+        "trades7d": 192,
+        "trades30d": 576,
+        "avgHoldSecs": 4390,
+        "lastActiveTs": 1793199989
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": null
+    },
+    {
+      "address": "CnDgQDQ26j8DrZbyWReTZKCC8NRvWhXab8NYRVjnHBrs",
+      "name": "Wallet O",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 15,
+      "stats": {
+        "pnl1dUsd": -254,
+        "pnl7dUsd": 15791,
+        "pnl30dUsd": 19334,
+        "winRate7d": 0.51,
+        "winRate30d": 0.511,
+        "trades7d": 282,
+        "trades30d": 1410,
+        "avgHoldSecs": 12165,
+        "lastActiveTs": 1793288556
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": null
+    },
+    {
+      "address": "GzzZWkGdMgmMDz6t2vpm33RpgHGZq4SJHrTwK6KxqHbf",
+      "name": "Wallet P",
+      "handle": null,
+      "avatarUrl": null,
+      "url": null,
+      "telegram": null,
+      "followers": null,
+      "rank": 16,
+      "stats": {
+        "pnl1dUsd": -1878,
+        "pnl7dUsd": 10638,
+        "pnl30dUsd": -7362,
+        "winRate7d": 0.625,
+        "winRate30d": 0.38,
+        "trades7d": 292,
+        "trades30d": 1168,
+        "avgHoldSecs": 4720,
+        "lastActiveTs": 1793201180
+      },
+      "tags": [
+        "sample"
+      ],
+      "kol": true,
+      "study": null
+    }
+  ]
+}
